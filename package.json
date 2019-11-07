@@ -1,0 +1,16 @@
+{
+  "name": "TypeScriptTryp",
+  "version": "1.0.0",
+  "description": "Type Script Curd App using Mongo DB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Magana",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.3"
+  }
+}
